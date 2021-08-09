@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+The project is currently deployed on  (https://netflix-clone-901f6.web.app/profile)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
